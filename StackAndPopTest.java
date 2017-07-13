@@ -7,7 +7,7 @@ package stackandpoptest;
 
 /**
  *
- * @author makas
+ * @author makasssi
  */
 public class StackAndPopTest {
 
